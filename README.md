@@ -2,6 +2,8 @@
 
 Link: https://www.youtube.com/watch?v=OK_JCtrrv-c 
 #### Documentação oficial: https://www.php.net/manual/en/langref.php 
+#### PHP Handbook: https://www.freecodecamp.org/news/the-php-handbook/ 
+#### PHP Tutorial (The right way): https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
 
 ## História do PHP
 O **PHP** foi criado em 1993 por **Rasmus Lerdorf** como uma série de scripts para gerenciar seu site pessoal. Originalmente chamado de **Personal Home Page Tools**, a linguagem evoluiu para **PHP/FI** em 1995, permitindo interações com formulários HTML e bancos de dados. Em 1997, com a reescrita do código por **Andi Gutmans** e **Zeev Suraski**, surgiu o **PHP 3**, que se tornou um marco, tornando a linguagem mais robusta e popular, especialmente com o suporte a bases de dados. A partir disso, o PHP se consolidou como uma ferramenta essencial para o desenvolvimento de sites dinâmicos, com a introdução do motor **Zend Engine** em **PHP 4** e a chegada da **Programação Orientada a Objetos (POO)** no **PHP 5**.
